@@ -7,7 +7,7 @@ Welcome to Satellite Manual's documentation!
 ============================================
 
 .. warning::
-    If you are starting your journey playing with Amateur Radio Satellites then please keep in mind that you would an Amateur Radio license to proceed. The good news is that 
+    If you are starting your journey playing with Amateur Radio Satellites then please keep in mind that you would need an Amateur Radio license to proceed. The good news is that 
     it is easy to obtain your own license. Contact your local Radio Amateur club for more information or contact the radio league for your country:
 
    .. list-table:: 
@@ -36,7 +36,7 @@ While access to amateur radio satellites have been around for many years many ha
 I'm still very much a newbie when it comes to amateur radio but I have a stong interest in playing with these satellites. This manual is a compilation 
 of my own notes and information in the hope that it might be helpfull for other hams to get on the air with satellites. This manual is still very much a work
 in progress and will be updated over time, but the idea is to focus more on the practical side of setting up your own station rather than going to deep into the theory.
-If you find any errors then please feel free to let know.
+If you find any errors then please feel free to let me know.
 
 73
 Tom - ZR6TG
@@ -59,6 +59,11 @@ Tom - ZR6TG
    telemetry
    otherprojects
 
+Contributors
+============
+
+ZR6TG, ZS6BD, ZS2BK
+
 Updates
 =======
 
@@ -66,8 +71,10 @@ Updates
    :widths: 50 50
    :header-rows: 0
 
+   *  - 2022/04/16
+      - Satellite Telemetry Tutorial
    *  - 2022/04/13
-      - ISS Information + SSTV/Satellite Telemetry Decoding
+      - ISS Information + SSTV/Satellite Telemetry Decoding, Misc Errors, typos
    *  - 2022/01/28
       - Initial Layout - Basic Eshail and Leo Info
 

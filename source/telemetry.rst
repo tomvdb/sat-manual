@@ -10,6 +10,11 @@ satellites and receive and decode the telemetry from them.
     :align: center
 
 
+.. toctree::
+    :maxdepth: 10
+    :caption: Tutorials:
+
+    decodingsatexample.rst
 
 Resources
 +++++++++
@@ -22,6 +27,8 @@ This is a fairly wide topic and this document will be expanded over time with in
 
    *  - Website
       - Notes
+   *  - `Twitter List of Satellite Telemetry Hunters <https://twitter.com/i/lists/1513934221525540874>`_
+      - People actively decoding telemetry and posting results
    *  - `PE0SAT Website <https://www.pe0sat.vgnet.nl/>`_
       - Lots of information regarding software and telemetry decoding
    *  - `DK3WN Satblog <https://www.satblog.info/>`_

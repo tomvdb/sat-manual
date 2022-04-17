@@ -48,7 +48,7 @@ This assumes you have a dualband yagi antenna connected to two handheld radios (
    Make sure you squelch is open on your receiving radio
 
 * Use one of the tracking applications above to determine the time and position of when the satellite will pass over your location. Some of the apps such as Heavens Above or ISS Detector allows you to point your mobile phone to the sky and using the built in compass it will show the start point, end point and path it will travel
-* Set your radio(s) frequency to downlink and uplink frequency. Keep in mind of the doppler effect. Set your frequency about 10 kHz above the center frequency.
+* Set your radio(s) frequency to downlink and uplink frequency. Keep in mind of the doppler effect. Set your frequency about 10 kHz above the center for UHF. On VHF the doppler is max 3 kHz, but you typically don't need to worry too much about it on vhf depending on the satellie and your equipment.
 * Make sure your squelch is open
 * When the pass starts point in the general direction with your yagi and when the satellite is in range you should hear your downlink almost quiet down. Rotate antenna to improve signal
 * Once you are sure you are receiving the satellite you can call using your callsign and grid locator. Only transmit if you can hear the satellite. If you are receiving your signal you should hear your voice coming back on the downlink. (Be sure to listen and make sure you aren't transmitting while someone else is transmitting)
